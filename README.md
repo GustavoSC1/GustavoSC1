@@ -4,7 +4,7 @@
 Meu nome é Gustavo Cruz e atualmente estou me graduando em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia (UESB). Eu programo principalmente em Java utilizando o framework Spring, mas estou sempre aprendendo.
 
 - 🌱 Atualmente estou estudando Spring
-- 💬 Pergunte-me sobre Java, Spring and MySQL
+- 💬 Pergunte-me sobre Java, Spring e MySQL
 - 📫 Como me encontrar: gu.cruz17@hotmail.com
 
 Os meus principais projetos podem ser encontrados aqui no GitHub, listados na parte de “Pinned”. 
